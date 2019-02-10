@@ -4,5 +4,5 @@ export const colors = {
 	secondaryTextColor: '#ffffff',
 	thinLineColor: '#cacecf',
 	secondaryColor: '#62d6af',
-	logOut: '#ff0000',
+	logOut: 'rgba(142,108,205, 0.5)',
 };

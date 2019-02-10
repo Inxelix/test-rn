@@ -22,6 +22,9 @@ const root = createSwitchNavigator(
 		},
 		[DRAWER]: {
 			screen: Drawer,
+			navigationOptions: {
+				header: null,
+			},
 		},
 	},
 	{
